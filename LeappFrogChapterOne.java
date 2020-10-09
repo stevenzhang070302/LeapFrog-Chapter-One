@@ -7,7 +7,7 @@ import java.util.Collections;
 
 public class LeappFrogChapterOne {
   private static ArrayList < Integer > integers;
-    private static File f=new File("Solution3.txt");
+    private static File f=new File("Solutions.txt");
     public static void main(String[] args) throws Exception {
         FileReader fr = new FileReader("leapfrog_ch_ (1).txt");
         LineNumberReader lnr = new LineNumberReader(fr);
